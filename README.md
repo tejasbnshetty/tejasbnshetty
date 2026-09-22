@@ -37,6 +37,7 @@ Deployed ML models (CNNs, autoencoders, random forests) across 50+ configs to op
 ### 🎓 Education
 
 **Master of Computing** (AI specialisation) — Australian National University · *2024 – 2026*
+
 **B.E. Computer Science** — M.S. Ramaiah Institute of Technology · *2020 – 2024*
 
 ### 📌 Featured projects
