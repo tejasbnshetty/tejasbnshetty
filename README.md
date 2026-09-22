@@ -25,5 +25,3 @@ Software engineer building Android apps, web tools, and the occasional weird sid
 | [Divvy](https://github.com/tejasbnshetty/Divvy) | Expense-splitting app |
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=tejasbnshetty&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub stats" height="150"/>
