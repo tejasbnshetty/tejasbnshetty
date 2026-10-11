@@ -45,7 +45,7 @@ Deployed ML models (CNNs, autoencoders, random forests) across 50+ configs to op
 | Project | Description |
 |---|---|
 | [Bardar](https://bardar.online) | Location-based music artist discovery platform:  NestJS backend, custom scoring algorithm, agentic AI chatbot |
-| [Keyboard DS5](https://github.com/tejasbnshetty/keyboard-ds5) | Hobby project: free, open-source Windows app to play a PS5 with keyboard and mouse over the Remote Play protocol. Python, asyncio networking, pywebview UI; key-free releases built and attested by GitHub Actions |
+| [Keyboard DS5](https://github.com/tejasbnshetty/keyboard-ds5) | Open-source Windows app to play a PS5 with keyboard and mouse over the Remote Play protocol. Python, asyncio networking, pywebview UI; key-free releases built and attested by GitHub Actions |
 | [Nutricate](https://github.com/tejasbnshetty/Nutricate) | 🏆 Best Social Project, IISc:  Android app that OCR-scans food labels to flag allergens |
 | [PoliRec](https://github.com/tejasbnshetty/PoliRec) | Government vehicle management app with an integrated LLM chatbot for query resolution |
 | [TwoWay-Sign-Language-Translator](https://github.com/tejasbnshetty/TwoWay-Sign-Language-Translator) | Converts speech/text to sign language video and detects hand signs via webcam |
