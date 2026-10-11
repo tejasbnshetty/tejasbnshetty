@@ -25,13 +25,13 @@ Fresh Master of Computing graduate (ANU, AI specialisation) with real world expe
 
 ### 💼 Experience
 
-**Software Developer**: [Bardar](https://bardar.online) · ANU TechLauncher Capstone · *Jul 2025 – Jun 2026*
+**Software Developer**: [Bardar](https://bardar.online) · ANU TechLauncher Capstone · *Jul 2025 – Jun 2026*: 
 Built the entire NestJS backend from scratch (10+ REST APIs), a priority task queue + rate limiter that cut search latency 20–30%, and led integration of an agentic AI chatbot (Gemini 2.5 Flash) over the full backend tool set.
 
-**Data Science & Backend Intern**: Axiscades Technologies · *Feb 2024 – Jul 2024*
+**Data Science & Backend Intern**: Axiscades Technologies · *Feb 2024 – Jul 2024*: 
 Shipped Python/Flask inventory APIs (−25% processing time) and YOLO-based defect detection for production line QC (−60% error rate).
 
-**Undergraduate Research Intern**: Indian Space Research Organisation (ISRO) · *Feb 2023 – Feb 2024*
+**Undergraduate Research Intern**: Indian Space Research Organisation (ISRO) · *Feb 2023 – Feb 2024*: 
 Deployed ML models (CNNs, autoencoders, random forests) across 50+ configs to optimise satellite mission ops (+30% efficiency), and built predictive maintenance workflows (85% accuracy detecting part failures).
 
 ### 🎓 Education
@@ -44,9 +44,10 @@ Deployed ML models (CNNs, autoencoders, random forests) across 50+ configs to op
 
 | Project | Description |
 |---|---|
-| [Bardar](https://bardar.online) | Location-based music artist discovery platform | NestJS backend, custom scoring algorithm, agentic AI chatbot |
-| [Nutricate](https://github.com/tejasbnshetty/Nutricate) | 🏆 Best Social Project, IISc | Android app that OCR-scans food labels to flag allergens |
-| [PoliRec](https://github.com/tejasbnshetty/PoliRec) | Government vehicle management app with an integrated LLM chatbot for query resolution |
+| [Bardar](https://bardar.online) | Location-based music artist discovery platform:  NestJS backend, custom scoring algorithm, agentic AI chatbot |
+| [Keyboard DS5](https://github.com/tejasbnshetty/keyboard-ds5) | Hobby project: free, open-source Windows app to play a PS5 with keyboard and mouse over the Remote Play protocol. Python, asyncio networking, pywebview UI; key-free releases built and attested by GitHub Actions |
+| [Nutricate](https://github.com/tejasbnshetty/Nutricate) | 🏆 Best Social Project, IISc:  Android app that OCR-scans food labels to flag allergens |
+| [PoliRec](https://github.com/tejasbnshetty/PoliRec):  Government vehicle management app with an integrated LLM chatbot for query resolution |
 | [TwoWay-Sign-Language-Translator](https://github.com/tejasbnshetty/TwoWay-Sign-Language-Translator) | Converts speech/text to sign language video and detects hand signs via webcam |
 
 ### 📄 Publications
