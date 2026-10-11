@@ -2,7 +2,7 @@
 
 Fresh Master of Computing graduate (ANU, AI specialisation) with real world experience shipping software across fullstack, backend, and data systems. I build backend systems, ship AI integrations, and occasionally publish research.
 
-📍 Canberra, Australia · 🟢 Open to work: full-time & freelance
+📍 Australia · 🟢 Open to work: full-time & freelance
 
 📧 [tejasbnshetty@gmail.com](mailto:tejasbnshetty@gmail.com) · 🔗 [Portfolio](https://tejasshetty.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/tejasbnshetty)
 
