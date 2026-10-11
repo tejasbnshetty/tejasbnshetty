@@ -23,17 +23,6 @@ Fresh Master of Computing graduate (ANU, AI specialisation) with real world expe
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 💼 Experience
-
-**Software Developer**: [Bardar](https://bardar.online) · ANU TechLauncher Capstone · *Jul 2025 – Jun 2026*: 
-Built the entire NestJS backend from scratch (10+ REST APIs), a priority task queue + rate limiter that cut search latency 20–30%, and led integration of an agentic AI chatbot (Gemini 2.5 Flash) over the full backend tool set.
-
-**Data Science & Backend Intern**: Axiscades Technologies · *Feb 2024 – Jul 2024*: 
-Shipped Python/Flask inventory APIs (−25% processing time) and YOLO-based defect detection for production line QC (−60% error rate).
-
-**Undergraduate Research Intern**: Indian Space Research Organisation (ISRO) · *Feb 2023 – Feb 2024*: 
-Deployed ML models (CNNs, autoencoders, random forests) across 50+ configs to optimise satellite mission ops (+30% efficiency), and built predictive maintenance workflows (85% accuracy detecting part failures).
-
 ### 🎓 Education
 
 **Master of Computing** (AI specialisation): Australian National University · *2024 – 2026*
